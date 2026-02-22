@@ -1,0 +1,9 @@
+gensim==4.3.3
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.10.0
+scikit-learn==1.6.1
+tqdm==4.67.1
+nltk==3.9.1
+gdown==5.2.0
+setuptools==75.8.0
