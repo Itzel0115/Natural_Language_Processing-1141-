@@ -6,7 +6,7 @@ This repository contains my implementation and report for **Assignment 1: Word E
 - `src/`  
   Source code for preprocessing the Google analogy dataset, evaluating pre-trained embeddings, and training custom word embeddings.
 - `reports/`  
-  Public version of the report (personal information removed).
+  Public version of the report.
 
 ## Highlights
 - Parsed the Google Analogy dataset into a structured format with semantic vs. syntactic categories.
