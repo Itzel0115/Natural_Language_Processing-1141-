@@ -21,12 +21,12 @@ This repository contains my solutions to **four programming assignments** from t
 
 ## Assignments Overview
 
-| Assignment | Topic / Keywords                          | Brief Description                                                                 | Folder        | GitHub Link                                                                                                                                     |
-|-----------|--------------------------------------------|-----------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1         | Word Embeddings, Analogy Evaluation       | Preprocess Google Analogy dataset, evaluate pre-trained embeddings, train Word2Vec, and visualize word relationships. | `Assignment 1/` | `https://github.com/Itzel0115/Natural_Language_Processing-1141-/tree/main/Assignment%201` |
-| 2         | LSTM Arithmetic, Character-level Modeling | Train a character-level LSTM model to learn arithmetic expressions and predict results.                                | `Assignment 2/` | `https://github.com/Itzel0115/Natural_Language_Processing-1141-/tree/main/Assignment%202` |
-| 3         | BERT Multi-Task, SemEval 2014 Task 1      | Build a BERT-based multi-task model for semantic relatedness regression and textual entailment classification.         | `Assignment 3/` | `https://github.com/Itzel0115/NTHU_Natural_Language_Processing/tree/main/Assignment%203` |
-| 4         | RAG, LangChain, Ollama, Cat Facts         | Implement a Retrieval-Augmented Generation pipeline using LangChain, Ollama, and a cat-facts QA benchmark.            | `Assignment 4/` | `https://github.com/Itzel0115/NTHU_Natural_Language_Processing/tree/main/Assignment%204` |
+| #  | Project                                             | Methods                                       | Key Topics                                               |
+|----|-----------------------------------------------------|-----------------------------------------------|----------------------------------------------------------|
+| 01 | [Word Analogy & Embeddings](https://github.com/Itzel0115/Natural_Language_Processing-1141-/tree/main/Assignment%201) | GloVe, Word2Vec, t-SNE                        | Distributional word vectors, analogy evaluation          |
+| 02 | [Arithmetic as Language](https://github.com/Itzel0115/Natural_Language_Processing-1141-/tree/main/Assignment%202)   | LSTM seq2seq, autoregressive decoding         | Character-level modeling, numeric expression generation  |
+| 03 | [Multi-Task BERT](https://github.com/Itzel0115/Natural_Language_Processing-1141-/tree/main/Assignment%203)          | BERT encoder, dual prediction heads           | Semantic relatedness regression, entailment classification |
+| 04 | [RAG with LangChain](https://github.com/Itzel0115/Natural_Language_Processing-1141-/tree/main/Assignment%204)       | BM25, dense retrieval, LangChain RAG pipeline | Hybrid retrieval, reranking, local LLM question answering |
 
 Each assignment folder contains:
 
