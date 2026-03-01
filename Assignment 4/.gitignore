@@ -1,0 +1,29 @@
+# data / generated outputs
+data/
+outputs/
+checkpoints/
+runs/
+cache/
+saved_models/
+
+# model artifacts
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# logs
+*.log
+
+# RAG outputs
+rag_results.json
+
+# OS junk
+Thumbs.db
+.DS_Store
+

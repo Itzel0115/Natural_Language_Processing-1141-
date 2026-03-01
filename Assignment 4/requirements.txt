@@ -1,0 +1,24 @@
+numpy
+pandas
+tqdm
+regex
+
+langchain==0.2.12
+langchain-core==0.2.26
+langchain-community==0.2.10
+langchain-experimental
+chromadb==0.5.5
+sentence-transformers
+rank-bm25
+
+transformers
+torch
+huggingface_hub
+llama-index  # optional, only if you experimented with local index tests
+
+colab-xterm
+ollama
+
+openpyxl
+jsonlines
+
